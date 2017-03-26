@@ -1,1 +1,2 @@
 # WebpackMini
+* webpack simple demo
